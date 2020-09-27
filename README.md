@@ -30,7 +30,7 @@ Content types you wish to appear on the homepage should be set in your [mainSect
 
 ## Development roadmap
 
-Leftover items from Jonathan Janseens:
+Leftover items from Jonathan Janssens:
 
-[ ] Use SCSS from original theme instead of compiled CSS - also needs Hugo Pipes setting up
-[ ] Multi author support and author taxonomy
+- Use SCSS from original theme instead of compiled CSS - also needs Hugo Pipes setting up
+- Multi author support and author taxonomy
