@@ -1,19 +1,17 @@
-name = "casper3"
+name = "gingeleski"
 license = "MIT"
-licenselink = "https://github.com/jonathanjanssens/hugo-casper3/blob/master/LICENSE"
-description = "The default Casper version 3 theme from Ghost CMS ported over to Hugo"
+licenselink = "https://github.com/gingeleski/gingeleski-hugo-theme/blob/master/LICENSE"
+description = "The custom theme developed for and by Randy Gingeleski."
 tags = ["blog", "dark", "light"]
 features = ["darkmode"]
 min_version = "0.54.0"
 
 [author]
-  name = "Jonathan Janssens"
-  homepage = "https://jonathanjanssens.com"
-  repo = "https://github.com/jonathanjanssens/projects/hugo-casper3"
+  name = "Randy Gingeleski"
+  homepage = "https://gingeleski.com"
+  repo = "https://github.com/gingeleski/gingeleski-hugo-theme"
 
 [original]
-  name = "Ghost"
+  name = "Casper default theme for Ghost"
   homepage = "https://ghost.org"
   repo = "https://github.com/TryGhost/Casper"
-
-  
